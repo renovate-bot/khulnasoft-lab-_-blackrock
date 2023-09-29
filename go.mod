@@ -1,3 +1,3 @@
-module github.com/khulnasoft-labs/blackrock
+module github.com/khulnasoft-lab/blackrock
 
 go 1.18

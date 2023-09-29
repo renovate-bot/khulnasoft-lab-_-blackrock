@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/khulnasoft-labs/blackrock"
+	"github.com/khulnasoft-lab/blackrock"
 )
 
 func main() {
